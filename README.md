@@ -1,10 +1,10 @@
 # Projeto de testes automatizados para o site animais fantásticos
 
-Este repositório contém testes automatizados escritos com o framework Robot e a biblioteca Selenium para o site animais fantásticos.
+Este repositório contém testes automatizados escritos com o framework Robot e a biblioteca Selenium para o site [animais fantásticos](https://kkkkkaua-animais-fantasticos.netlify.app/).
 
 ## Introdução
 
-O projeto de testes automatizados para o site animais fantásticos foi criado com o propósito acadêmico de demonstrar técnicas de automação de testes usando o Robot Framework e Selenium. Este projeto abrange diversos cenários de teste para garantir a funcionalidade e a integridade do site animais fantásticos.
+O projeto de testes automatizados para o site [animais fantásticos](https://kkkkkaua-animais-fantasticos.netlify.app/) foi criado com o propósito acadêmico de demonstrar técnicas de automação de testes usando o Robot Framework e Selenium. Este projeto abrange diversos cenários de teste para garantir a funcionalidade e a integridade do site [animais fantásticos](https://kkkkkaua-animais-fantasticos.netlify.app/).
 
 ## Funcionalidades
 
